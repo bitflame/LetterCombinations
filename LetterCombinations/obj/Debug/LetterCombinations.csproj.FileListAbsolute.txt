@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\LetterCombinations\LetterCombinations\bin\Debug\LetterCombinations.exe.config
+C:\Users\usr\source\repos\LetterCombinations\LetterCombinations\bin\Debug\LetterCombinations.exe
+C:\Users\usr\source\repos\LetterCombinations\LetterCombinations\bin\Debug\LetterCombinations.pdb
+C:\Users\usr\source\repos\LetterCombinations\LetterCombinations\obj\Debug\LetterCombinations.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\LetterCombinations\LetterCombinations\obj\Debug\LetterCombinations.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\LetterCombinations\LetterCombinations\obj\Debug\LetterCombinations.exe
+C:\Users\usr\source\repos\LetterCombinations\LetterCombinations\obj\Debug\LetterCombinations.pdb
